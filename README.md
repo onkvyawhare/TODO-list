@@ -22,7 +22,8 @@ React js,javavscript,Tailwind css,vercel
 
 To view this project :
 
-https://todo-list-chi-indol.vercel.app/
+
 
 ```
+https://todo-list-chi-indol.vercel.app/
 
